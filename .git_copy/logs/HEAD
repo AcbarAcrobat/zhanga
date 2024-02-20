@@ -1,0 +1,81 @@
+0000000000000000000000000000000000000000 a41a507b6c7f45df3aa6d88971e9d5916289f3a2 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707181557 +0300	clone: from gitlab.skillbox.ru:artem_lagunkov/python_django.git
+a41a507b6c7f45df3aa6d88971e9d5916289f3a2 8dcf700f6829f6c35b90968a380927769cc44761 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707181880 +0300	commit: make migrations && create objects in db
+8dcf700f6829f6c35b90968a380927769cc44761 8d4f5a4953886670831c70a2beccd0ee5be49b65 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707183356 +0300	commit: added tests OrdersListViewTestCase & ProductsListViewTestCase & ProductDetailsViewTestCase
+8d4f5a4953886670831c70a2beccd0ee5be49b65 ffe33436f032453292e153664620021ca3e6d44b Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707184278 +0300	commit: added tests ProductsExportViewTestCase
+ffe33436f032453292e153664620021ca3e6d44b 7064c990cc0b40d0def468aeffc9769bdd35ec45 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707241077 +0300	commit: added OrderDetailViewTestCases
+7064c990cc0b40d0def468aeffc9769bdd35ec45 dc338ac565c313390f18026e666668fbf26a7f57 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707249136 +0300	commit: added OrdersExportTestCase
+dc338ac565c313390f18026e666668fbf26a7f57 d717de7d358e6fa365762f8ee4d5607fa5c3c228 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707251051 +0300	commit: added OrdersExportTestCase
+d717de7d358e6fa365762f8ee4d5607fa5c3c228 b3b6b2207eeb1852ec2fe698047ba81b5d1b572d Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707251145 +0300	commit: added OrdersExportTestCase
+b3b6b2207eeb1852ec2fe698047ba81b5d1b572d 4aa1b6e2ef8e887bd131fb690971de3ab4291fa8 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707251152 +0300	checkout: moving from master to master_copy
+4aa1b6e2ef8e887bd131fb690971de3ab4291fa8 dc338ac565c313390f18026e666668fbf26a7f57 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707251157 +0300	pull origin master: Fast-forward
+dc338ac565c313390f18026e666668fbf26a7f57 b3b6b2207eeb1852ec2fe698047ba81b5d1b572d Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707251306 +0300	checkout: moving from master_copy to master
+b3b6b2207eeb1852ec2fe698047ba81b5d1b572d 733f07a5bf6ef360b7732672815e66dd6be8145d Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707251317 +0300	pull: Merge made by the 'ort' strategy.
+733f07a5bf6ef360b7732672815e66dd6be8145d 7b8bc32aac32cc2fc07d68a150e2672ab3a42ffb Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707256789 +0300	commit: added multiple file upload
+7b8bc32aac32cc2fc07d68a150e2672ab3a42ffb 102cd01e62693119eda8112d0a1f58e67ca3e84a Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707319355 +0300	commit: added avatar & custom func to upload path
+102cd01e62693119eda8112d0a1f58e67ca3e84a 430648b3973777c0ae5361e1efca4dfd4109ee94 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707319377 +0300	commit: added avatar & custom func to upload path
+430648b3973777c0ae5361e1efca4dfd4109ee94 7e48cb921f483ff5a1ea3a89200138ed2e49c844 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707319943 +0300	commit: migrated user imagefield
+7e48cb921f483ff5a1ea3a89200138ed2e49c844 06bb6d57bae3b3f8d94f861ae44ca35b32a397a2 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707320312 +0300	commit: migrated
+06bb6d57bae3b3f8d94f861ae44ca35b32a397a2 2f76dcd9a2c4388ac233227e588013439dd53f54 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707320355 +0300	commit: deleted testing dir
+2f76dcd9a2c4388ac233227e588013439dd53f54 c95794c92c3a6e30e74610a0fb1f747190587223 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707334426 +0300	commit: added update template view
+c95794c92c3a6e30e74610a0fb1f747190587223 8bd60f309f31f999cfecd78db5890a32af7fd034 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707336558 +0300	commit: added photo update
+8bd60f309f31f999cfecd78db5890a32af7fd034 6b912bc7b73484714839ce2e27d2db12f8993f7c Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707337322 +0300	commit: finished
+6b912bc7b73484714839ce2e27d2db12f8993f7c 18a669475cdb140876780bb1207467dde24335b3 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707338986 +0300	commit: finished
+18a669475cdb140876780bb1207467dde24335b3 9c422ed1f8e9ea48c65114626d9e835935aacf8f Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707339339 +0300	commit: finished
+9c422ed1f8e9ea48c65114626d9e835935aacf8f 3ae383abbed1a319c17da8d2e823c78b4e20d242 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707342106 +0300	commit: finished
+3ae383abbed1a319c17da8d2e823c78b4e20d242 2b4aa61e737a8e153b84efa3bf3e4ce95eb7cd9e Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707342213 +0300	commit: finished
+2b4aa61e737a8e153b84efa3bf3e4ce95eb7cd9e 1f70639481dd7658166a3e3b7719d01175574a88 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707409342 +0300	pull: Fast-forward
+1f70639481dd7658166a3e3b7719d01175574a88 dc338ac565c313390f18026e666668fbf26a7f57 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707409367 +0300	checkout: moving from master to master_copy
+dc338ac565c313390f18026e666668fbf26a7f57 1f70639481dd7658166a3e3b7719d01175574a88 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707409388 +0300	checkout: moving from master_copy to master
+1f70639481dd7658166a3e3b7719d01175574a88 fb51b7d151c87b3d1129bfa49d51ebba4d46bde2 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707415784 +0300	commit: translate products page
+fb51b7d151c87b3d1129bfa49d51ebba4d46bde2 7ea7d0d85a0300c4446a292e91bf341170bad74e Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707416286 +0300	pull: Merge made by the 'ort' strategy.
+7ea7d0d85a0300c4446a292e91bf341170bad74e 90f073a9946b2241acdcd7a061366e3a87551c0f Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707419335 +0300	commit: translate products page
+90f073a9946b2241acdcd7a061366e3a87551c0f 426c70413173fd9b3d42f0ffeb74f2cd0cd5052a Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707419415 +0300	commit: translated products page
+426c70413173fd9b3d42f0ffeb74f2cd0cd5052a c23a0771a822bc203fadfc0a5495e1da5afb93a1 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707422082 +0300	commit: added translation for product detail page
+c23a0771a822bc203fadfc0a5495e1da5afb93a1 5e9ac7217bcee4b85be0bbf445ed1711c836ea70 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707468784 +0300	commit: finished
+5e9ac7217bcee4b85be0bbf445ed1711c836ea70 dc338ac565c313390f18026e666668fbf26a7f57 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707468789 +0300	checkout: moving from master to master_copy
+dc338ac565c313390f18026e666668fbf26a7f57 5e9ac7217bcee4b85be0bbf445ed1711c836ea70 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707468810 +0300	checkout: moving from master_copy to master
+5e9ac7217bcee4b85be0bbf445ed1711c836ea70 5e9ac7217bcee4b85be0bbf445ed1711c836ea70 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707468815 +0300	reset: moving to HEAD
+5e9ac7217bcee4b85be0bbf445ed1711c836ea70 0ad107918862c521dc0f8c592743c889b01b75b3 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707488290 +0300	commit (merge): resolve conflicts
+0ad107918862c521dc0f8c592743c889b01b75b3 08c3786f6630fd6e1fd4b32e54a8d38580e9fdbc Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707500331 +0300	commit: added DjangoFilterBackend, SearchFilter, OrderingFilter, ProductSerializer
+08c3786f6630fd6e1fd4b32e54a8d38580e9fdbc 1080b72cbee055a3a245374352eff78a24bdf740 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707501261 +0300	commit: finished
+1080b72cbee055a3a245374352eff78a24bdf740 dc338ac565c313390f18026e666668fbf26a7f57 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707562650 +0300	checkout: moving from master to master_copy
+dc338ac565c313390f18026e666668fbf26a7f57 0e54e7e28d75f6ab52660140db009bfaab1f1cd9 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707562666 +0300	commit: rest frameword
+0e54e7e28d75f6ab52660140db009bfaab1f1cd9 1080b72cbee055a3a245374352eff78a24bdf740 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707562677 +0300	checkout: moving from master_copy to master
+1080b72cbee055a3a245374352eff78a24bdf740 e5338a8c6fd7e813d08c53550a401a10cdc43891 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707562721 +0300	pull: Fast-forward
+e5338a8c6fd7e813d08c53550a401a10cdc43891 d219ba26ae5e5147c79631fb50ff338c7f086105 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707565797 +0300	commit: finished
+d219ba26ae5e5147c79631fb50ff338c7f086105 0e54e7e28d75f6ab52660140db009bfaab1f1cd9 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707571944 +0300	checkout: moving from master to master_copy
+0e54e7e28d75f6ab52660140db009bfaab1f1cd9 d219ba26ae5e5147c79631fb50ff338c7f086105 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707571977 +0300	checkout: moving from master_copy to master
+d219ba26ae5e5147c79631fb50ff338c7f086105 6a183f78b8ccf0d9c0e13da940006c5980cec60e Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707571994 +0300	commit: asd
+6a183f78b8ccf0d9c0e13da940006c5980cec60e cb4a4b50b931f31446ed0595baf0243426c2fc82 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707572000 +0300	pull: Merge made by the 'ort' strategy.
+cb4a4b50b931f31446ed0595baf0243426c2fc82 5e0c6bc18568a57601f775d2b76eac3ba9f9cf9e Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707596102 +0300	commit: finished lessons for bd transactions
+5e0c6bc18568a57601f775d2b76eac3ba9f9cf9e 03e7b71155fc0af043c1b7f5b25eec2677730ad0 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707601853 +0300	commit: trying to add article attrs
+03e7b71155fc0af043c1b7f5b25eec2677730ad0 8c127bf2ca34eaa549393929a46506855cc310c9 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707764423 +0300	commit: fix article list view
+8c127bf2ca34eaa549393929a46506855cc310c9 8b00b292533c7104dbe3075be29849012c6ba230 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707764467 +0300	commit: fix article list view
+8b00b292533c7104dbe3075be29849012c6ba230 9e2bc2e10704a16df9c4c5d12359cc830a7ec6f5 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707764553 +0300	commit: fix article list view
+9e2bc2e10704a16df9c4c5d12359cc830a7ec6f5 822bd52bd6eaed82c5a121b692b176ddf430d136 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707764569 +0300	commit: fix article list view
+822bd52bd6eaed82c5a121b692b176ddf430d136 06b1c9d21252bd5900ccf104458f13a9bc1b7541 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707815728 +0300	commit: change articlelistview
+06b1c9d21252bd5900ccf104458f13a9bc1b7541 acecce3ad7020f4e1b444f03be1517884faf99c7 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707815733 +0300	pull: Merge made by the 'ort' strategy.
+acecce3ad7020f4e1b444f03be1517884faf99c7 9fd74fc86a12b12cf302bd554ac1a61167ef458f Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707815841 +0300	commit: change articlelistview
+9fd74fc86a12b12cf302bd554ac1a61167ef458f b39bf81a2e0ea294707cf3b1f64f5096ad827592 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707834690 +0300	commit: change articlelistview
+b39bf81a2e0ea294707cf3b1f64f5096ad827592 0e54e7e28d75f6ab52660140db009bfaab1f1cd9 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707834696 +0300	checkout: moving from master to master_copy
+0e54e7e28d75f6ab52660140db009bfaab1f1cd9 b39bf81a2e0ea294707cf3b1f64f5096ad827592 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707834704 +0300	checkout: moving from master_copy to master
+b39bf81a2e0ea294707cf3b1f64f5096ad827592 38fafad91d934563a4fccae4fd5528816f6de67e Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707904930 +0300	commit (merge): clean
+38fafad91d934563a4fccae4fd5528816f6de67e 711f6f866e5f483b1aaa6d764b8f204e28db28e9 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707927976 +0300	commit: added grafana, loki, sentri
+711f6f866e5f483b1aaa6d764b8f204e28db28e9 b10f9c2660dea6ed0b78a6499898c85f18083b85 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707927992 +0300	commit: added grafana, loki, sentri
+b10f9c2660dea6ed0b78a6499898c85f18083b85 6801ec2283d060b335052d394dba9e944106653a Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707985884 +0300	commit: added grafana, loki, sentri
+6801ec2283d060b335052d394dba9e944106653a 0e54e7e28d75f6ab52660140db009bfaab1f1cd9 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707985889 +0300	checkout: moving from master to master_copy
+0e54e7e28d75f6ab52660140db009bfaab1f1cd9 6801ec2283d060b335052d394dba9e944106653a Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707986066 +0300	checkout: moving from master_copy to master
+6801ec2283d060b335052d394dba9e944106653a 257c1156cb3c34de39ee50cda1d4a046c9af419c Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707986070 +0300	pull: Merge made by the 'ort' strategy.
+257c1156cb3c34de39ee50cda1d4a046c9af419c 0e54e7e28d75f6ab52660140db009bfaab1f1cd9 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707986078 +0300	checkout: moving from master to master_copy
+0e54e7e28d75f6ab52660140db009bfaab1f1cd9 257c1156cb3c34de39ee50cda1d4a046c9af419c Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707986090 +0300	checkout: moving from master_copy to master
+257c1156cb3c34de39ee50cda1d4a046c9af419c 277bad8f2759b84404337114cc36ac38c7f3d5bc Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1707986108 +0300	commit: rm logging
+277bad8f2759b84404337114cc36ac38c7f3d5bc 82cd8137c1bd3a1c101cf9b6769973cbf8136073 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1708031112 +0300	commit: added csv import
+82cd8137c1bd3a1c101cf9b6769973cbf8136073 68f0d9005fa65e93c4babd72b6f3f97e269ee53b Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1708198010 +0300	commit: added sitemap for article
+68f0d9005fa65e93c4babd72b6f3f97e269ee53b 211fd48c016f4858588739e177f724b181403f7f Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1708201568 +0300	commit: added sitemap shopapp
+211fd48c016f4858588739e177f724b181403f7f e3d0db966bba459d26251d3c665943655704557c Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1708255734 +0300	commit: added cache
+e3d0db966bba459d26251d3c665943655704557c 23bdae69cabfb345e77f6fbdce79e94b5b1507c6 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1708267305 +0300	commit: added UserOrdersListView && user_order.html
+23bdae69cabfb345e77f6fbdce79e94b5b1507c6 77f336be358f4ad083808c53a46d1b660d5f1119 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1708283634 +0300	commit: add user_order.html
+77f336be358f4ad083808c53a46d1b660d5f1119 e6f99b33e977d1f7b843eef4faae1845665ed948 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1708286902 +0300	commit: changed namings
+e6f99b33e977d1f7b843eef4faae1845665ed948 473e142e3a045b7b0036ca6151c58e785e0d2a97 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1708287170 +0300	commit: changed namings
+473e142e3a045b7b0036ca6151c58e785e0d2a97 2c952d2fd5c29e7de21a9ea2b2e5031f2bb92417 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1708287485 +0300	commit: asd
+2c952d2fd5c29e7de21a9ea2b2e5031f2bb92417 d6b9e0ce6368540f49f78110133ef535bd41fda3 Artyom Lagunkov <artem.lagunkov@gs-labs.ru> 1708451132 +0300	pull: Fast-forward
